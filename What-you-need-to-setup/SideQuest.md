@@ -19,6 +19,6 @@ After clicking build, create a folder in your project folder. This folder is to 
 ![image.png](/.attachments/image-ed6f7ee8-7e0c-4d70-b114-74449437c88a.png)
 
 
-You also have to make sure you connect the USB-C from PC to Oculus Headset. Once connected, SideQuest will show charging. To transfer your apk file to your oculus headset, drag the apk file that you build into the "Oculus Quest 2" highlighted with the red box. After that, at the bottom left of the page. it will say "Successful".
+You also have to make sure you connect the USB-C from PC to Oculus Headset. Once connected, SideQuest will show charging. To transfer your apk file to your oculus headset, drag the apk file that you build into the "Oculus Quest 2" highlighted with the red box. After that, at the bottom left of the page. it will say "All Tasks Completed!".
 
 <IMG  src="https://dev.azure.com/NanyangPoly/00650b15-8f8b-4808-89a6-9a4fd9888c05/_apis/git/repositories/79a0cb67-ced6-4014-8d32-366c99c3fdb9/Items?path=/.attachments/image-5ac849f3-ef6a-4cd3-b97a-ef0dbf10bae2.png&amp;download=false&amp;resolveLfs=true&amp;%24format=octetStream&amp;api-version=5.0-preview.1&amp;sanitize=true&amp;versionDescriptor.version=main"  alt="image.png"/>
