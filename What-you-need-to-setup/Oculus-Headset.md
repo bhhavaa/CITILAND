@@ -8,3 +8,5 @@ https://developer.oculus.com/sign-up/
 
 
 <IMG  src="https://beebom.com/wp-content/uploads/2021/11/Unknown-sources-1.jpg?w=640"  alt="How to Sideload Content on the Oculus Quest 2 (2022) | Beebom"/>
+
+Once you click on "Unknown Sources" you will see "FYP". Click on "FYP" to run your project. 
