@@ -1,4 +1,4 @@
-To run the current project, to run your own project **(after copy pasting your apk file to SideQuest)** navigate to **"Unknown Sources"**.
+To run the current project **(after copy pasting your apk file to SideQuest)** navigate to **"Unknown Sources"**.
 
 If you cant find "Unknown Sources" make sure you have verified your account. (I used to verify with my credit card, because the other option wasn't available when I was trying to verify) 
 
