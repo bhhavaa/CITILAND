@@ -10,6 +10,7 @@
 
 ![image.png](/.attachments/image-b5ffbe29-c2ab-4f41-afcb-1033fa500447.png)
 
-# **Link on how to use asset store (Skip to 2:30):**
+# **Link on how to download from asset store and import to your project (Skip to 2:30):**
 https://www.youtube.com/watch?v=AzItMI583kY
 
+ 
