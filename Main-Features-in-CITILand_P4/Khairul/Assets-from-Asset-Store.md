@@ -10,5 +10,6 @@
 
 ![image.png](/.attachments/image-b5ffbe29-c2ab-4f41-afcb-1033fa500447.png)
 
-# **Link on how to use asset store:**
-https://www.youtube.com/watch?v=q5ejxITvEh8
+# **Link on how to use asset store (Skip to 2:30):**
+https://www.youtube.com/watch?v=AzItMI583kY
+
