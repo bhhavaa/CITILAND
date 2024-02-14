@@ -13,4 +13,8 @@
 # **Link on how to download from asset store and import to your project (Skip to 2:30):**
 https://www.youtube.com/watch?v=AzItMI583kY
 
+After you import from asset store, open your unity application. The package manager will pop up and you need to click "Download".
+
+![image.png](/.attachments/image-b8cb3d59-a3cc-4440-b307-98cc0de82181.png)
+
  
