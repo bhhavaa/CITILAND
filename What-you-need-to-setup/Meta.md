@@ -3,6 +3,9 @@
 
 https://developer.oculus.com/manage/verify/
 
+Refer here to see screenshot:
+[Oculus Headset](/What-you-need-to-setup/Oculus-Headset)
+
 This email is for both gmail and meta website.
 
 Email: citilandnyp@gmail.com
