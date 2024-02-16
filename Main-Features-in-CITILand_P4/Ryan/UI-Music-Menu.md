@@ -3,6 +3,9 @@
 - Hover over the "Click Me" button and interact with it
 - Following panel Music Selection will be displayed 
 
+- How to create panels 
+https://dev.azure.com/NanyangPoly/FSP_CITILand/_git/FSP_CITILand_WIKIFYP2023P4?path=/.attachments/Screenshot%202024-02-16%20140553.png&version=GBmain
+
 - Music Menu panel will become hidden ( using GameObject.SetActive)
 https://dev.azure.com/NanyangPoly/FSP_CITILand/_git/FSP_CITILand_WIKIFYP2023P4?path=/.attachments/Screenshot%202024-02-16%20135621.png&version=GBmain
 
