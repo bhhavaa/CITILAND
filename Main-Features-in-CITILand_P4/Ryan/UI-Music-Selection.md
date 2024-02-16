@@ -1,10 +1,10 @@
 # Music Selection Panel 
 
 - How to create panels 
-ref : Added Screenshot 2024-02-16 140553.png to /.attachments
+https://dev.azure.com/NanyangPoly/FSP_CITILand/_git/FSP_CITILand_WIKIFYP2023P4?path=/.attachments/Screenshot%202024-02-16%20140553.png&version=GBmain
 
 - setting color of panel 
-ref : Added Screenshot 2024-02-16 140830.png to /.attachments
+https://dev.azure.com/NanyangPoly/FSP_CITILand/_git/FSP_CITILand_WIKIFYP2023P4?path=/.attachments/Screenshot%202024-02-16%20140830.png&version=GBmain
 
 - using text meshpro to set text
-ref : Added Screenshot 2024-02-16 141629.png to /.attachments
+https://dev.azure.com/NanyangPoly/FSP_CITILand/_git/FSP_CITILand_WIKIFYP2023P4?path=/.attachments/Screenshot%202024-02-16%20141629.png&version=GBmain
