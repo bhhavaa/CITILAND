@@ -1,4 +1,6 @@
-# To be able to create the panel 
+# Music Selection Panel 
+
+- How to create panels 
 ref : Added Screenshot 2024-02-16 140553.png to /.attachments
 
 - setting color of panel 
