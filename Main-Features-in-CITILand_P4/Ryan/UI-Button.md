@@ -10,6 +10,7 @@ https://dev.azure.com/NanyangPoly/FSP_CITILand/_git/FSP_CITILand_WIKIFYP2023P4?p
 - Use the toggle music function and set the element that you want to play within the button upon selection.
 https://dev.azure.com/NanyangPoly/FSP_CITILand/_git/FSP_CITILand_WIKIFYP2023P4?path=/.attachments/Screenshot%202024-02-16%20145945.png&version=GBmain
 
+
 - Within your button audio script, you can set the background audio and music audio source you want to play. 
 - Followed by setting your music clip with an element.
 https://dev.azure.com/NanyangPoly/FSP_CITILand/_git/FSP_CITILand_WIKIFYP2023P4?path=/.attachments/Screenshot%202024-02-16%20150053.png&version=GBmain
