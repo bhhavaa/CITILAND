@@ -8,3 +8,6 @@ Ref : Added Screenshot 2024-02-16 135621.png to /.attachments
 
 - Button is interactable and will change color upon hovering and clicking on it
 Ref : Added Screenshot 2024-02-16 135929.png to /.attachments
+
+- Setting color for the button can be done via here
+ref : 
