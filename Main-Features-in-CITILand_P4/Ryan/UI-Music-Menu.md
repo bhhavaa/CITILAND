@@ -17,3 +17,6 @@ https://dev.azure.com/NanyangPoly/FSP_CITILand/_git/FSP_CITILand_WIKIFYP2023P4?p
 
 - Setting color for the button can be done via here
 https://dev.azure.com/NanyangPoly/FSP_CITILand/_git/FSP_CITILand_WIKIFYP2023P4?path=/.attachments/Screenshot%202024-02-16%20140156.png&version=GBmain
+
+- adding text mesh pro 
+https://dev.azure.com/NanyangPoly/FSP_CITILand/_git/FSP_CITILand_WIKIFYP2023P4?path=/.attachments/Screenshot%202024-02-16%20144715.png&version=GBmain
